@@ -101,7 +101,7 @@ body {
     h1 {
         display: flex;
         justify-content: center;
-        margin: -.2em 1em 0em 1em;
+        margin: -.2em 1em 0 1em;
         /*background: mediumpurple;*/
         font-size: xxx-large;
     }
